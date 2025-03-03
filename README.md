@@ -88,17 +88,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-### Badges
-<b>My Github Stats</b>
-
-
-<a href="https://github.com/Githaiga22">
-<img src="https://github-readme-stats.vercel.app/api?username=Githaiga22&show_icons=true&count_private=truetheme=dark#gh-dark-mode-only" alt="Githaiga22 GitHub stats"/>
-</a>
-
-<a href="http://www.github.com/Githaiga22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Githaiga22&stroke=0000ff&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0000ff&sideNums=0000ff&sideLabels=0000ff&dates=0000ff&hide_border=true" /></a>
-
-<!--
 **Githaiga22/Githaiga22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
