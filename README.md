@@ -92,12 +92,12 @@ You can click the Preview link to take a look at your changes.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on Zero knowledge cryptograpy
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ... AI agents
+- 🤔 I’m looking for help with ... Rust Programmer
+- 💬 Ask me about ... Blockchain Development
+- 📫 How to reach me: [Telegram](t.me/Githaiga22)
+- 😄 Pronouns: ... [$ETH lawyer](https://x.com/SantiagoDevRel/status/1888895595550486936?t=BBrPmN1DZkiRIj9QsB3oxA&s=19)
+- ⚡ Fun fact: ... Bullish on Ethereum (ETH)
 -->
