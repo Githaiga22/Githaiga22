@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
 + 📚 currently learning javascript, Rust, Circom
 + 🥋 Lisk student | ZK (zero-knowledge) student.
 + ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
-
 ### Skills
 <p align="left">
 <a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin-right: 10px">
@@ -53,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36" height="36" alt="Python"/>
 </a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="36" height="36" alt="Solidity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" width="36" height="36" alt="Solidity"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/react.svg" width="36" height="36" alt="React"/>
@@ -68,7 +67,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS"/>
 </a>
 </p>
-
 
 ### Socials
 <p align="left">
