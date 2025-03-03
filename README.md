@@ -7,7 +7,7 @@
 
 <!--Skill And More Information-->
 <div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=Doreen-Robinson&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Allan's github stats" />
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=Allan-Robinson&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Allan's github stats" />
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan Robinson&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
 </div>
