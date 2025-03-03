@@ -46,14 +46,30 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Skills
-<p align="left>
+<p align="left">
 <a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin-right: 10px">
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/go.svg" width="36 height="36" alt="Go"/>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/go.svg" width="36" height="36" alt="Go"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36 height="36" alt="Go"/>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36" height="36" alt="Python"/>
+</a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/solidity.svg" width="36" height="36" alt="Solidity"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/react.svg" width="36" height="36" alt="React"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/javascript.svg" width="36" height="36" alt="JavaScript"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/html.svg" width="36" height="36" alt="HTML"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css.svg" width="36" height="36" alt="CSS"/>
 </a>
 </p>
+
 
 ### Socials
 <p align="left">
