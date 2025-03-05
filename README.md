@@ -98,5 +98,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Blockchain Development
 - 📫 How to reach me: [Twitter](https://x.com/robinsoncodes)
 - 😄 Pronouns: ... [$ETH lawyer](https://x.com/SantiagoDevRel/status/1888895595550486936?t=BBrPmN1DZkiRIj9QsB3oxA&s=19)
-- ⚡ Fun fact: ... Bullish on Ethereum (ETH)
+- ⚡ Fun fact: ... Fun 
 -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ibrainiac&limit=5&theme=dark&combine_all_yearly_contributions=true)
