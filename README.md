@@ -28,11 +28,11 @@
 Allan Robinson/Allan Robinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-+ 🌍 I'm based in Kenya
++ 🌍 Community manager Polkadot Kisumu
++ 🌍 Community Manager [web3wayAfrica] (https://x.com/Web3WayAfrica) 
 + 📩 Reach me on [allangithaiga5@gmail.com](mailto:allangithaiga5@gmail.com)
 + 🌱 Proficient in GO, Solidity, React
-+ 📚 currently learning javascript, Rust, Circom
++ 📚 currently learning  Rust, Circom, Haskel
 + 🥋 Lisk Graduate | ZK (Invisible Garden) Graduate.
 + ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
 ### Skills
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ... AI agents
 - 🤔 I’m looking for help with ... Rust Programmer
-- 💬 Ask me about ... Blockchain Development
+- 💬 Ask me about ... Polkadot, Lisk, Ethereum, KRNL
 - 📫 How to reach me: [Twitter](https://x.com/robinsoncodes)
 - 😄 Pronouns: ... [$ETH lawyer](https://x.com/SantiagoDevRel/status/1888895595550486936?t=BBrPmN1DZkiRIj9QsB3oxA&s=19)
 - ⚡ Fun fact: ... When i grow up i wanted to be a lawyer😢 but ended up as an "$ETH Lawyer" 🤣🤣
