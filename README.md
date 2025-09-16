@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 + 📩 Reach me on [allangithaiga5@gmail.com](mailto:allangithaiga5@gmail.com)
 + 🌱 Proficient in GO, Solidity, React
 + 📚 currently learning javascript, Rust, Circom
-+ 🥋 Lisk student | ZK (zero-knowledge) student.
++ 🥋 Lisk Graduate | ZK (Invisible Garden) Graduate.
 + ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
 ### Skills
 <p align="left">
