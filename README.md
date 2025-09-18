@@ -12,14 +12,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githaiga22&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-<!--Total Contributions--> 
-<p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Allan Robinson&theme=tokyonight_duo&hide_border=true">
-</p>
-<!---
-Allan Robinson/Allan Robinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 + 🌍 Community manager Polkadot Kisumu
 
