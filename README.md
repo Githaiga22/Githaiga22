@@ -16,14 +16,6 @@
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Allan Robinson&theme=tokyonight_duo&hide_border=true">
 </p>
-
-<!--Visitor count-->
-<div align="center">
-  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Allan Robinson}/count.svg" /></p> 
-  <br>
-</div>
-
 <!---
 Allan Robinson/Allan Robinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
