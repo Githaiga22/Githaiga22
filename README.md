@@ -20,7 +20,7 @@
 <!--Visitor count-->
 <div align="center">
   <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Allan Robinson}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{githaiga22}/count.svg" /></p> 
   <br>
 </div>
 
