@@ -57,7 +57,7 @@
   <a href="https://github.com/Githaiga22" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github.svg" width="36" height="36" alt="Github"/>
   </a>
-  <a href="https://twitter.com/Kenyanforex" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://twitter.com/robinsoncodes" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter"/>
   </a>
   <a href="https://ke.linkedin.com/in/Allan Robinson" target="_blank" rel="noreferrer" style="margin-right: 10px;">
