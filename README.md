@@ -20,13 +20,21 @@
 Allan Robinson/Allan Robinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 + 🌍 Community manager Polkadot Kisumu
+
 + 🌍 Community Manager [web3wayAfrica] (https://x.com/Web3WayAfrica) 
+
 + 📩 Reach me on [allangithaiga5@gmail.com](mailto:allangithaiga5@gmail.com)
+
 + 🌱 Proficient in GO, Solidity, React
+
 + 📚 currently learning  Rust, Circom, Haskel
+
 + 🥋 Lisk Graduate | ZK (Invisible Garden) Graduate.
+
 + ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
+
 ### Skills
 <p align="left">
 <a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin-right: 10px">
