@@ -13,7 +13,7 @@
 </div>
 
 
-+ 🌍 Community manager Polkadot Kisumu
++ 🌍 Community manager [Polkadot Kenya](https://www.linkedin.com/posts/allan-robinson-%F0%9F%93%8C-shanhaiwoo-3b54511a4_polkadot-web3africa-blockchaincommunity-activity-7386309815251382272-0Fwm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC_DjfkB3LMNRuzqcReQlB_FAxWjA4CKDVo)
 
 + 🌍 Community Manager [web3wayAfrica](https://x.com/Web3WayAfrica) 
 
