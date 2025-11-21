@@ -17,7 +17,7 @@
 
 <!--Social Media-->
 <div align="center"> 
-<a href="https://www.linkedin.com/in/allan-robinson" target="_blank">
+<a href="https://www.linkedin.com/in/allan-robinson-%F0%9F%93%8C-shanhaiwoo-3b54511a4/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
 </a>
 
