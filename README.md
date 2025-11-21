@@ -7,10 +7,14 @@
 
 <!--Skill And More Information-->
 <div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=Githaiga22&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Allan's github stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githaiga22&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="55%" height="195px" 
+       src="https://bad-apple-github-readme.vercel.app/api?username=Allan-Robinson&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en"
+       alt="Allan's github stats" />
+
+  <img width="41%" height="195px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Robinson&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+
 
 
 + 🌍 Community manager [Polkadot Kenya](https://www.linkedin.com/posts/allan-robinson-%F0%9F%93%8C-shanhaiwoo-3b54511a4_polkadot-web3africa-blockchaincommunity-activity-7386309815251382272-0Fwm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC_DjfkB3LMNRuzqcReQlB_FAxWjA4CKDVo)
