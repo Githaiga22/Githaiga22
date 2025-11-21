@@ -23,9 +23,17 @@
 
 + 📚 currently learning  Rust, Circom, Haskel
 
++  ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
+
 + 🥋 Lisk Graduate | ZK (Invisible Garden) Graduate.
 
-+ ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
++ 🥋 ETHiopia Builder Residency Hackathon Winner (Feb 1st-29th) 2025 Alumni [Ethiopia](https://x.com/robinsoncodes/status/1891076421600031128?s=20) .
+  
++ 🥋 Shanhaiwoo Builder Residency Finalist (Sep 1st-Oct 2nd) 2025 Alumni [Singapore](https://x.com/robinsoncodes/status/1964010964900020475?s=20) .
+
++ 🥋 Token 2049 Hackathon Finalist (Oct 1st-Oct 4th) 2025 Alumni [Singapore](https://x.com/robinsoncodes/status/1973093496488681579?s=20) .
+
+
 
 ### Skills
 <p align="left">
