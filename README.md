@@ -15,7 +15,7 @@
 
 + 🌍 Community manager Polkadot Kisumu
 
-+ 🌍 Community Manager [web3wayAfrica] (https://x.com/Web3WayAfrica) 
++ 🌍 Community Manager [web3wayAfrica](https://x.com/Web3WayAfrica) 
 
 + 📩 Reach me on [allangithaiga5@gmail.com](mailto:allangithaiga5@gmail.com)
 
