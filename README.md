@@ -113,9 +113,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Zero knowledge cryptograpy
 
-- 👯 I’m looking to collaborate on ... AI agents
-- 🤔 I’m looking for help with ... Rust Programmer
-- 💬 Ask me about ... Polkadot, Lisk, Ethereum, KRNL
+- 👯 I’m looking to collaborate on ... DeFi (Decentralized Finance), AI agents & Smart Contract Auditing
+- 🤔 I’m looking for help with ... Making RWA's (Real World Assets) projects work out for me 
+- 💬 Ask me about ... Polkadot, Lisk, Ethereum, KRNL, Aave, Celo, Celestia, Stellar, Base. 
 - 📫 How to reach me: [Twitter](https://x.com/robinsoncodes)
 - 😄 Pronouns: ... [$ETH lawyer](https://x.com/SantiagoDevRel/status/1888895595550486936?t=BBrPmN1DZkiRIj9QsB3oxA&s=19)
 - ⚡ Fun fact: ... When i grow up i wanted to be a lawyer😢 but ended up as an "$ETH Lawyer" 🤣🤣
