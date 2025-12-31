@@ -1,7 +1,7 @@
 <!--Title @Githaiga22-->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;I'm+Allan+Robinson;++A+Blockchain+Developer;++From+Zone01+Kisumu;Explore+More!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;I'm+Allan+Robinson;++A+Senior+Blockchain+Systems+Engineer;++From+Digitalyze+Labs;Explore+More!)
 
 </div>
 
@@ -47,9 +47,9 @@
 
 + 📩 Reach me on [allangithaiga5@gmail.com](mailto:allangithaiga5@gmail.com)
 
-+ 🌱 Proficient in GO, Solidity, React
++ 🌱 Proficient in GO, Solidity, React, Rust
 
-+ 📚 currently learning  Rust, Circom, Haskel
++ 📚 currently learning  DeFi, Circom, Haskel
 
 +  ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
 
