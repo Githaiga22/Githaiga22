@@ -1,7 +1,7 @@
 <!--Title @Githaiga22-->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;I'm+Allan+Robinson;++A+Senior+Blockchain+Systems+Engineer;++From+Digitalyze+Labs;Explore+More!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;I'm+Allan+Robinson;++A+Senior+Blockchain+Systems+Engineer+And+System+Design+Engineer;++From+Nalla+Labs;Explore+More!)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 + 🌱 Proficient in GO, Solidity, React, Rust
 
-+ 📚 currently learning  DeFi, Circom, Haskel
++ 📚 currently learning AI:(Prompt Engineering, Machine Learning) Blockchain: (DeFi, Circom, Haskel)
 
 +  ✍ I write technical blogs at [dev.to](https://dev.to/githaiga22)
 
